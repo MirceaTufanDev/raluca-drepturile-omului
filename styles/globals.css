@@ -19,4 +19,5 @@ body {
 .wider-article{
   max-width: 900px !important;
   margin: 0 auto;
+  text-align: justify;
 }
