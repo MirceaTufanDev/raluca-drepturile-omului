@@ -46,6 +46,7 @@ export default function Index({ posts, globalData }) {
           ))}
         </ul>
       </main>
+      <a style={{paddingTop : 20, fontSize: 26}}  href='https://ro.m.wikipedia.org/wiki/Drepturile_omului' > Continut Wiki</a>
       <Footer copyrightText={globalData.footerText} />
       <GradientBackground
         variant="large"
